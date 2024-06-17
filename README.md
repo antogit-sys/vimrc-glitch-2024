@@ -1,6 +1,6 @@
 <h1 align = "center"> My .vimrc - glitch 2024</h1>
 <h1 align = "center">
-    <img src='img/img_vimrc_conf.png'/>
+    <img src='img/vimrc-img.png'/>
 </h1>
 
 Setting up Vim that I personally use
